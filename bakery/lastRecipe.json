@@ -1,0 +1,488 @@
+[
+  {
+    "name": "Spiced Chai Delight Cake",
+    "ingredients": [
+      {
+        "amount": 200,
+        "unit": "g",
+        "ingredient": "flour",
+        "color": "off-white"
+      },
+      {
+        "amount": 150,
+        "unit": "g",
+        "ingredient": "brown sugar",
+        "color": "dark caramel"
+      },
+      {
+        "amount": 2,
+        "unit": "pcs",
+        "ingredient": "eggs",
+        "color": "warm yellow"
+      },
+      {
+        "amount": 100,
+        "unit": "g",
+        "ingredient": "butter",
+        "color": "creamy yellow"
+      },
+      {
+        "amount": 100,
+        "unit": "ml",
+        "ingredient": "brewed chai tea",
+        "color": "dark brown"
+      },
+      {
+        "amount": 1,
+        "unit": "tsp",
+        "ingredient": "cinnamon",
+        "color": "cinnamon brown"
+      },
+      {
+        "amount": 1,
+        "unit": "tsp",
+        "ingredient": "cardamom",
+        "color": "earthy brown"
+      },
+      {
+        "amount": 0.5,
+        "unit": "tsp",
+        "ingredient": "clove",
+        "color": "deep brown"
+      }
+    ],
+    "fitness": 8
+  },
+  {
+    "name": "Spiced Chai Delight Cake",
+    "ingredients": [
+      {
+        "amount": 200,
+        "unit": "g",
+        "ingredient": "flour",
+        "color": "off-white"
+      },
+      {
+        "amount": 150,
+        "unit": "g",
+        "ingredient": "brown sugar",
+        "color": "dark caramel"
+      },
+      {
+        "amount": 2,
+        "unit": "pcs",
+        "ingredient": "eggs",
+        "color": "warm yellow"
+      },
+      {
+        "amount": 100,
+        "unit": "g",
+        "ingredient": "butter",
+        "color": "creamy yellow"
+      },
+      {
+        "amount": 100,
+        "unit": "ml",
+        "ingredient": "brewed chai tea",
+        "color": "dark brown"
+      },
+      {
+        "amount": 1,
+        "unit": "tsp",
+        "ingredient": "cinnamon",
+        "color": "cinnamon brown"
+      },
+      {
+        "amount": 1,
+        "unit": "tsp",
+        "ingredient": "cardamom",
+        "color": "earthy brown"
+      },
+      {
+        "amount": 0.5,
+        "unit": "tsp",
+        "ingredient": "clove",
+        "color": "deep brown"
+      }
+    ],
+    "fitness": 8
+  },
+  {
+    "name": "Spiced Chai Delight Cake",
+    "ingredients": [
+      {
+        "amount": 200,
+        "unit": "g",
+        "ingredient": "flour",
+        "color": "off-white"
+      },
+      {
+        "amount": 150,
+        "unit": "g",
+        "ingredient": "brown sugar",
+        "color": "dark caramel"
+      },
+      {
+        "amount": 2,
+        "unit": "pcs",
+        "ingredient": "eggs",
+        "color": "warm yellow"
+      },
+      {
+        "amount": 100,
+        "unit": "g",
+        "ingredient": "butter",
+        "color": "creamy yellow"
+      },
+      {
+        "amount": 100,
+        "unit": "ml",
+        "ingredient": "brewed chai tea",
+        "color": "dark brown"
+      },
+      {
+        "amount": 1,
+        "unit": "tsp",
+        "ingredient": "cinnamon",
+        "color": "cinnamon brown"
+      },
+      {
+        "amount": 1,
+        "unit": "tsp",
+        "ingredient": "cardamom",
+        "color": "earthy brown"
+      },
+      {
+        "amount": 0.5,
+        "unit": "tsp",
+        "ingredient": "clove",
+        "color": "deep brown"
+      }
+    ],
+    "fitness": 8
+  },
+  {
+    "name": "Emerald Matcha Marble Cake",
+    "ingredients": [
+      {
+        "amount": 200,
+        "unit": "g",
+        "ingredient": "flour",
+        "color": "ivory"
+      },
+      {
+        "amount": 100,
+        "unit": "g",
+        "ingredient": "sugar",
+        "color": "pearl"
+      },
+      {
+        "amount": 2,
+        "unit": "pcs",
+        "ingredient": "eggs",
+        "color": "golden-yellow"
+      },
+      {
+        "amount": 100,
+        "unit": "g",
+        "ingredient": "butter",
+        "color": "golden-yellow"
+      },
+      {
+        "amount": 100,
+        "unit": "ml",
+        "ingredient": "milk",
+        "color": "creamy-white"
+      },
+      {
+        "amount": 2,
+        "unit": "tsp",
+        "ingredient": "matcha powder",
+        "color": "vibrant green"
+      },
+      {
+        "amount": 1,
+        "unit": "tsp",
+        "ingredient": "vanilla extract",
+        "color": "rich brown"
+      }
+    ],
+    "fitness": 7
+  },
+  {
+    "name": "Salted Caramel Dream Cookies",
+    "ingredients": [
+      {
+        "amount": 200,
+        "unit": "g",
+        "ingredient": "flour",
+        "color": "sandy beige"
+      },
+      {
+        "amount": 150,
+        "unit": "g",
+        "ingredient": "brown sugar",
+        "color": "rich mahogany"
+      },
+      {
+        "amount": 100,
+        "unit": "g",
+        "ingredient": "butter",
+        "color": "golden yellow"
+      },
+      {
+        "amount": 1,
+        "unit": "pcs",
+        "ingredient": "egg",
+        "color": "golden"
+      },
+      {
+        "amount": 100,
+        "unit": "g",
+        "ingredient": "caramel bits",
+        "color": "golden brown"
+      },
+      {
+        "amount": 1,
+        "unit": "tsp",
+        "ingredient": "vanilla extract",
+        "color": "dark amber"
+      },
+      {
+        "amount": 0.5,
+        "unit": "tsp",
+        "ingredient": "sea salt",
+        "color": "white"
+      }
+    ],
+    "fitness": 7
+  },
+  {
+    "name": "Coconut-Lime Tropical Cake",
+    "ingredients": [
+      {
+        "amount": 200,
+        "unit": "g",
+        "ingredient": "flour",
+        "color": "white"
+      },
+      {
+        "amount": 150,
+        "unit": "g",
+        "ingredient": "sugar",
+        "color": "pure white"
+      },
+      {
+        "amount": 100,
+        "unit": "g",
+        "ingredient": "shredded coconut",
+        "color": "fluffy white"
+      },
+      {
+        "amount": 2,
+        "unit": "pcs",
+        "ingredient": "eggs",
+        "color": "sunny yellow"
+      },
+      {
+        "amount": 100,
+        "unit": "ml",
+        "ingredient": "coconut milk",
+        "color": "milky white"
+      },
+      {
+        "amount": 1,
+        "unit": "pcs",
+        "ingredient": "lime zest",
+        "color": "bright green"
+      },
+      {
+        "amount": 50,
+        "unit": "ml",
+        "ingredient": "lime juice",
+        "color": "zesty green"
+      }
+    ],
+    "fitness": 7
+  },
+  {
+    "name": "Lavender Honey Bliss Cookies",
+    "ingredients": [
+      {
+        "amount": 200,
+        "unit": "g",
+        "ingredient": "flour",
+        "color": "pale beige"
+      },
+      {
+        "amount": 100,
+        "unit": "g",
+        "ingredient": "sugar",
+        "color": "soft white"
+      },
+      {
+        "amount": 50,
+        "unit": "ml",
+        "ingredient": "honey",
+        "color": "golden amber"
+      },
+      {
+        "amount": 100,
+        "unit": "g",
+        "ingredient": "butter",
+        "color": "buttery yellow"
+      },
+      {
+        "amount": 1,
+        "unit": "pcs",
+        "ingredient": "egg",
+        "color": "sunny yellow"
+      },
+      {
+        "amount": 1,
+        "unit": "tsp",
+        "ingredient": "lavender buds",
+        "color": "lavender purple"
+      },
+      {
+        "amount": 1,
+        "unit": "tsp",
+        "ingredient": "baking powder",
+        "color": "white"
+      }
+    ],
+    "fitness": 7
+  },
+  {
+    "name": "Lavender Honey Bliss Cookies",
+    "ingredients": [
+      {
+        "amount": 200,
+        "unit": "g",
+        "ingredient": "flour",
+        "color": "pale beige"
+      },
+      {
+        "amount": 100,
+        "unit": "g",
+        "ingredient": "sugar",
+        "color": "soft white"
+      },
+      {
+        "amount": 50,
+        "unit": "ml",
+        "ingredient": "honey",
+        "color": "golden amber"
+      },
+      {
+        "amount": 100,
+        "unit": "g",
+        "ingredient": "butter",
+        "color": "buttery yellow"
+      },
+      {
+        "amount": 1,
+        "unit": "pcs",
+        "ingredient": "egg",
+        "color": "sunny yellow"
+      },
+      {
+        "amount": 1,
+        "unit": "tsp",
+        "ingredient": "lavender buds",
+        "color": "lavender purple"
+      },
+      {
+        "amount": 1,
+        "unit": "tsp",
+        "ingredient": "baking powder",
+        "color": "white"
+      }
+    ],
+    "fitness": 7
+  },
+  {
+    "name": "Rose-Pistachio Dream Cookies",
+    "ingredients": [
+      {
+        "amount": 150,
+        "unit": "g",
+        "ingredient": "flour",
+        "color": "ivory"
+      },
+      {
+        "amount": 100,
+        "unit": "g",
+        "ingredient": "powdered sugar",
+        "color": "soft white"
+      },
+      {
+        "amount": 100,
+        "unit": "g",
+        "ingredient": "butter",
+        "color": "creamy yellow"
+      },
+      {
+        "amount": 1,
+        "unit": "pcs",
+        "ingredient": "egg yolk",
+        "color": "golden yellow"
+      },
+      {
+        "amount": 1,
+        "unit": "tsp",
+        "ingredient": "rose water",
+        "color": "blush pink"
+      },
+      {
+        "amount": 50,
+        "unit": "g",
+        "ingredient": "chopped pistachios",
+        "color": "emerald green"
+      }
+    ],
+    "fitness": 6
+  },
+  {
+    "name": "Black Sesame Velvet Cake",
+    "ingredients": [
+      {
+        "amount": 200,
+        "unit": "g",
+        "ingredient": "glutinous rice flour",
+        "color": "snow white"
+      },
+      {
+        "amount": 150,
+        "unit": "g",
+        "ingredient": "sugar",
+        "color": "sugar white"
+      },
+      {
+        "amount": 100,
+        "unit": "ml",
+        "ingredient": "coconut milk",
+        "color": "creamy white"
+      },
+      {
+        "amount": 2,
+        "unit": "pcs",
+        "ingredient": "eggs",
+        "color": "golden yellow"
+      },
+      {
+        "amount": 50,
+        "unit": "g",
+        "ingredient": "black sesame paste",
+        "color": "charcoal black"
+      },
+      {
+        "amount": 50,
+        "unit": "g",
+        "ingredient": "butter",
+        "color": "pale yellow"
+      }
+    ],
+    "fitness": 6
+  }
+]

@@ -1,0 +1,94 @@
+{
+  "recipes": [
+    {
+      "name": "Emerald Matcha Marble Cake",
+      "colortheme":"default",
+      "ingredients":[
+        { "amount": 200, "unit": "g", "ingredient": "flour", "color": "ivory", "nutrition": {"calories": 364, "protein": 10, "carbohydrates": 76, "fat": 1} },
+        { "amount": 100, "unit": "g", "ingredient": "sugar", "color": "pearl", "nutrition": {"calories": 387, "protein": 0, "carbohydrates": 100, "fat": 0} },
+        { "amount": 2, "unit": "pcs", "ingredient": "eggs", "color": "golden-yellow", "nutrition": {"calories": 143, "protein": 13, "carbohydrates": 1, "fat": 10} },
+        { "amount": 100, "unit": "g", "ingredient": "butter", "color": "golden-yellow", "nutrition": {"calories": 717, "protein": 1, "carbohydrates": 0, "fat": 81} },
+        { "amount": 100, "unit": "ml", "ingredient": "milk", "color": "creamy-white", "nutrition": {"calories": 42, "protein": 3, "carbohydrates": 5, "fat": 1}} ,
+        { "amount": 2, "unit": "tsp", "ingredient": "matcha powder", "color": "vibrant green", "nutrition": {"calories": 10, "protein": 1, "carbohydrates": 2, "fat": 0}} ,
+        { "amount": 1, "unit": "tsp", "ingredient": "vanilla extract", "color": "rich brown", "nutrition": {"calories": 12, "protein": 0, "carbohydrates": 1, "fat": 0}} 
+      ]
+    },
+    {
+      "name": "Lavender Honey Bliss Cookies",
+      "colortheme":"default",
+      "ingredients": [
+        { "amount": 200, "unit": "g", "ingredient": "flour", "color": "pale beige", "nutrition": {"calories": 364, "protein": 10, "carbohydrates": 76, "fat": 1} },
+        { "amount": 100, "unit": "g", "ingredient": "sugar", "color": "soft white", "nutrition": {"calories": 387, "protein": 0, "carbohydrates": 100, "fat": 0} },
+        { "amount": 50, "unit": "ml", "ingredient": "honey", "color": "golden amber", "nutrition": {"calories": 154, "protein": 0, "carbohydrates": 42, "fat": 0} },
+        { "amount": 100, "unit": "g", "ingredient": "butter", "color": "buttery yellow", "nutrition": {"calories": 717, "protein": 1, "carbohydrates": 0, "fat": 81} },
+        { "amount": 1, "unit": "pcs", "ingredient": "egg", "color": "sunny yellow", "nutrition": {"calories": 72, "protein": 6, "carbohydrates": 1, "fat": 5} },
+        { "amount": 1, "unit": "tsp", "ingredient": "lavender buds", "color": "lavender purple", "nutrition": {"calories": 5, "protein": 0, "carbohydrates": 1, "fat": 0} },
+        { "amount": 1, "unit": "tsp", "ingredient": "baking powder", "color": "white", "nutrition": {"calories": 2, "protein": 0, "carbohydrates": 1, "fat": 0} }
+      ]
+    },
+    {
+      "name": "Spiced Chai Delight Cake",
+      "colortheme":"default",
+      "ingredients": [
+        { "amount": 200, "unit": "g", "ingredient": "flour", "color": "off-white", "nutrition": {"calories": 364, "protein": 10, "carbohydrates": 76, "fat": 1} },
+        { "amount": 150, "unit": "g", "ingredient": "brown sugar", "color": "dark caramel", "nutrition": {"calories": 573, "protein": 0, "carbohydrates": 150, "fat": 0} },
+        { "amount": 2, "unit": "pcs", "ingredient": "eggs", "color": "warm yellow", "nutrition": {"calories": 143, "protein": 13, "carbohydrates": 1, "fat": 10} },
+        { "amount": 100, "unit": "g", "ingredient": "butter", "color": "creamy yellow", "nutrition": {"calories": 717, "protein": 1, "carbohydrates": 0, "fat": 81} },
+        { "amount": 100, "unit": "ml", "ingredient": "brewed chai tea", "color": "dark brown", "nutrition": {"calories": 2, "protein": 0, "carbohydrates": 0, "fat": 0} },
+        { "amount": 1, "unit": "tsp", "ingredient": "cinnamon", "color": "cinnamon brown", "nutrition": {"calories": 6, "protein": 0, "carbohydrates": 2, "fat": 0} },
+        { "amount": 1, "unit": "tsp", "ingredient": "cardamom", "color": "earthy brown", "nutrition": {"calories": 6, "protein": 0, "carbohydrates": 1, "fat": 0} },
+        { "amount": 0.5, "unit": "tsp", "ingredient": "clove", "color": "deep brown", "nutrition": {"calories": 2, "protein": 0, "carbohydrates": 0, "fat": 0} }
+      ]
+    },
+    {
+      "name": "Salted Caramel Dream Cookies",
+      "colortheme":"default",
+      "ingredients": [
+        { "amount": 200, "unit": "g", "ingredient": "flour", "color": "sandy beige", "nutrition": {"calories": 364, "protein": 10, "carbohydrates": 76, "fat": 1} },
+        { "amount": 150, "unit": "g", "ingredient": "brown sugar", "color": "rich mahogany", "nutrition": {"calories": 573, "protein": 0, "carbohydrates": 150, "fat": 0} },
+        { "amount": 100, "unit": "g", "ingredient": "butter", "color": "golden yellow", "nutrition": {"calories": 717, "protein": 1, "carbohydrates": 0, "fat": 81} },
+        { "amount": 1, "unit": "pcs", "ingredient": "egg", "color": "golden", "nutrition": {"calories": 72, "protein": 6, "carbohydrates": 1, "fat": 5} },
+        { "amount": 100, "unit": "g", "ingredient": "caramel bits", "color": "golden brown", "nutrition": {"calories": 410, "protein": 0, "carbohydrates": 100, "fat": 0} },
+        { "amount": 1, "unit": "tsp", "ingredient": "vanilla extract", "color": "dark amber", "nutrition": {"calories": 12, "protein": 0, "carbohydrates": 1, "fat": 0} },
+        { "amount": 0.5, "unit": "tsp", "ingredient": "sea salt", "color": "white", "nutrition": {"calories": 0, "protein": 0, "carbohydrates": 0, "fat": 0} }
+      ]
+    },
+    {
+      "name": "Black Sesame Velvet Cake",
+      "colortheme":"default",
+      "ingredients": [
+        { "amount": 200, "unit": "g", "ingredient": "glutinous rice flour", "color": "snow white", "nutrition": {"calories": 364, "protein": 10, "carbohydrates": 76, "fat": 1} },
+        { "amount": 150, "unit": "g", "ingredient": "sugar", "color": "sugar white", "nutrition": {"calories": 387, "protein": 0, "carbohydrates": 100, "fat": 0} },
+        { "amount": 100, "unit": "ml", "ingredient": "coconut milk", "color": "creamy white", "nutrition": {"calories": 230, "protein": 2, "carbohydrates": 6, "fat": 24} },
+        { "amount": 2, "unit": "pcs", "ingredient": "eggs", "color": "golden yellow", "nutrition": {"calories": 143, "protein": 13, "carbohydrates": 1, "fat": 10} },
+        { "amount": 50, "unit": "g", "ingredient": "black sesame paste", "color": "charcoal black", "nutrition": {"calories": 300, "protein": 10, "carbohydrates": 20, "fat": 25} },
+        { "amount": 50, "unit": "g", "ingredient": "butter", "color": "pale yellow", "nutrition": {"calories": 717, "protein": 1, "carbohydrates": 0, "fat": 81} }
+      ]
+    },
+    {
+      "name": "Rose-Pistachio Dream Cookies",
+      "colortheme":"default",
+      "ingredients": [
+        { "amount": 150, "unit": "g", "ingredient": "flour", "color": "ivory", "nutrition": {"calories": 364, "protein": 10, "carbohydrates": 76, "fat": 1} },
+        { "amount": 100, "unit": "g", "ingredient": "powdered sugar", "color": "soft white", "nutrition": {"calories": 387, "protein": 0, "carbohydrates": 100, "fat": 0} },
+        { "amount": 100, "unit": "g", "ingredient": "butter", "color": "creamy yellow", "nutrition": {"calories": 717, "protein": 1, "carbohydrates": 0, "fat": 81} },
+        { "amount": 1, "unit": "pcs", "ingredient": "egg yolk", "color": "golden yellow", "nutrition": {"calories": 55, "protein": 3, "carbohydrates": 1, "fat": 4} },
+        { "amount": 1, "unit": "tsp", "ingredient": "rose water", "color": "blush pink", "nutrition": {"calories": 0, "protein": 0, "carbohydrates": 0, "fat": 0} },
+        { "amount": 50, "unit": "g", "ingredient": "chopped pistachios", "color": "emerald green", "nutrition": {"calories": 290, "protein": 10, "carbohydrates": 14, "fat": 24} }
+      ]
+    },
+    {
+      "name": "Coconut-Lime Tropical Cake",
+      "colortheme":"default",
+      "ingredients": [
+        { "amount": 200, "unit": "g", "ingredient": "flour", "color": "white", "nutrition": {"calories": 364, "protein": 10, "carbohydrates": 76, "fat": 1} },
+        { "amount": 150, "unit": "g", "ingredient": "sugar", "color": "pure white", "nutrition": {"calories": 387, "protein": 0, "carbohydrates": 100, "fat": 0} },
+        { "amount": 100, "unit": "g", "ingredient": "shredded coconut", "color": "fluffy white", "nutrition": {"calories": 354, "protein": 3, "carbohydrates": 30, "fat": 24} },
+        { "amount": 2, "unit": "pcs", "ingredient": "eggs", "color": "sunny yellow", "nutrition": {"calories": 143, "protein": 13, "carbohydrates": 1, "fat": 10} },
+        { "amount": 100, "unit": "ml", "ingredient": "coconut milk", "color": "milky white", "nutrition": {"calories": 230, "protein": 2, "carbohydrates": 6, "fat": 24} },
+        { "amount": 1, "unit": "pcs", "ingredient": "lime zest", "color": "bright green", "nutrition": {"calories": 0, "protein": 0, "carbohydrates": 0, "fat": 0} },
+        { "amount": 50, "unit": "ml", "ingredient": "lime juice", "color": "zesty green", "nutrition": {"calories": 8, "protein": 0, "carbohydrates": 2, "fat": 0} }
+      ]
+    }
+  ]
+}
